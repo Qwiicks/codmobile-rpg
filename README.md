@@ -94,19 +94,19 @@ Maintenant votre bot est allumé et tout est ok !
 | //unban               | Supprime le bannissement d'un utilisateur                               | deban                                    | //unban 259302097197989888     |
 | //unmute              | Rend la parole à une personne muette                                    | demute                                   | //unmute @JordanHrndz            |
 
-### 💵 Commandes - Économie
+### 💵 Commandes - BadDeath RPG
 
 | Commande              | Description                                                             | Aliases                                  | Usage                          |
 | --------------------- | ------------------------------------------------------------------------| -----------------------------------------|--------------------------------|
-| //coinflip            | Fait un pari sur un lancer de pièce                                     | coin, flip                               | //coinflip 20 pile             |
+| //coinflip            | Fait un pari sur pile ou face                                           | coin, flip                               | //coinflip 20 pile             |
 | //daily               | Donne de l'argent quotidiennement                                       | /                                        | //daily                        |
 | //give                | Donne de l'argent à l'utilisateur mentionné                             | /                                        | //give @JordanHrndz 50           |
 | //leaderboard         | Affiche le classement Money ou Réputation                               | lb, leader                               | //leaderboard [rep]            |
 | //profil              | Affiche le profil de l'utilisateur                                      | me, money                                | //profil [@JordanHrndz]          |
 | //reputation          | Donne un point de réputation à l'utilisateur                            | point, rep                               | //reputation @JordanHrndz        |
 | //send                | Envoie de l'argent à l'utilisateur                                      | /                                        | //send @JordanHrndz 50           |
-| //work                | Travaille pour gagner de l'argent                                       | /                                        | //work                         |
-| //works               | Affiche la liste des métiers et permet d'être recruté dans l'un d'eux   | /                                        | //works 1                      |
+| //work                | récolté l'argent d'une guerre selon ton grades                          | /                                        | //work                         |
+| //works               | Affiche la liste des grades et permet d'être recruté dans l'un d'eux    | /                                        | //works 1                      |
 
 #### 🎵 Commandes - Musique
 
