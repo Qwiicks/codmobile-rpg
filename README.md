@@ -1,4 +1,4 @@
-# baddeath - rpg - Bot discord.js
+# StitchRPG'CODMOBILE" - rpg - Bot discord.js
   Un bot multitools, utilisant discord.js !
   Le code est essentiellement en Français 🇫🇷.
   Si vous avez besoin d'aide pour votre projet, vous pouvez me contacter sur Discord : SUM°Ştit¢h
@@ -94,7 +94,7 @@ Maintenant votre bot est allumé et tout est ok !
 | //unban               | Supprime le bannissement d'un utilisateur                               | deban                                    | //unban 259302097197989888     |
 | //unmute              | Rend la parole à une personne muette                                    | demute                                   | //unmute @SUM°Ştit¢h            |
 
-### 💵 Commandes - BadDeath RPG
+### 💵 Commandes - StitchRPG'CODMOBILE" RPG
 
 | Commande              | Description                                                             | Aliases                                  | Usage                          |
 | --------------------- | ------------------------------------------------------------------------| -----------------------------------------|--------------------------------|
