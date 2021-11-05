@@ -1,9 +1,9 @@
 # baddeath - rpg - Bot discord.js
   Un bot multitools, utilisant discord.js !
   Le code est essentiellement en Français 🇫🇷.
-  Si vous avez besoin d'aide pour votre projet, vous pouvez me contacter sur Discord : JordanHrndz#2323
+  Si vous avez besoin d'aide pour votre projet, vous pouvez me contacter sur Discord : SUM°Ştit¢h
 
-  L'exemple est sous licence GPL. Merci de la respecter en mentionnant le nom JordanHrndz dans votre code.
+  L'exemple est sous licence GPL. Merci de la respecter en mentionnant le nom SUM°Ştit¢h dans votre code.
 
 ## ⚡ Installation
 
@@ -62,7 +62,7 @@ Maintenant votre bot est allumé et tout est ok !
 | //bingo               | Lance un bingo                                                          | /                                        | //bingo 50                     |
 | //dice                | Lance un dé                                                             | dé                                       | //dice                         |
 | //joke                | Affiche une blague choisie au hasard                                    | blague                                   | //joke                         |
-| //love                | Affiche le poucentage d'amour entre deux utilisateurs                   | affinity, amour, calclove                | //love @JordanHrndz              |
+| //love                | Affiche le poucentage d'amour entre deux utilisateurs                   | affinity, amour, calclove                | //love @SUM°Ştit¢h              |
 | //question            | Répond à une question posée                                             | 8ball, ask                               | //question Suis-je beau ?      |
 | //rps                 | Joue à Pierre, papier, ciseaux                                          | pfc, rock                                | //rps rock                     |
 | //shoot               | Tue l'utilisateur mentionné                                             | kill, tuer                               | //shoot @Swarwerth             |
@@ -71,7 +71,7 @@ Maintenant votre bot est allumé et tout est ok !
 
 | Commande              | Description                                                             | Aliases                                  | Usage                          |
 | --------------------- | ------------------------------------------------------------------------| -----------------------------------------|--------------------------------|
-| //avatar              | Affiche l'avatar d'une personne                                         | logo, picture                            | //avatar [@JordanHrndz]          |
+| //avatar              | Affiche l'avatar d'une personne                                         | logo, picture                            | //avatar [@SUM°Ştit¢h]          |
 | //calc                | Calcule une expression                                                  | /                                        | //calc 2+2                     |
 | //fancytext           | Utilise les emojis pour écrire un texte                                 | emojitext, fancy                         | //fancytext Hello World!       |
 | //fliptext            | Renverse un texte                                                       | flip                                     | //fliptext Hello World!        |
@@ -80,19 +80,19 @@ Maintenant votre bot est allumé et tout est ok !
 | //poll                | Lance un sondage                                                        | quickpoll, sondage                       | //poll Suis-je beau ?          |
 | //say                 | Fait parler le bot                                                      | repeat                                   | //say Hello World!             |
 | //serverinfo          | Affiche les informations du serveur                                     | guild, server, serverstats, si           | //serverinfo                   |
-| //userinfo            | Affiche les informations d'un utilisateur                               | ui, user, userstats                      | //userinfo [@JordanHrndz]        |
+| //userinfo            | Affiche les informations d'un utilisateur                               | ui, user, userstats                      | //userinfo [@SUM°Ştit¢h]        |
 
 #### 🔫 Commandes - Modération
 
 | Commande              | Description                                                             | Aliases                                  | Usage                          |
 | --------------------- | ------------------------------------------------------------------------| -----------------------------------------|--------------------------------|
-| //ban                 | Bannit un utilisateur                                                   | /                                        | //ban @JordanHrndz [Spam]        |
-| //kick                | Exclut un utilisateur                                                   | /                                        | //kick @JordanHrndz [Spam]       |
+| //ban                 | Bannit un utilisateur                                                   | /                                        | //ban @SUM°Ştit¢h [Spam]        |
+| //kick                | Exclut un utilisateur                                                   | /                                        | //kick @SUM°Ştit¢h [Spam]       |
 | //mute                | Rend muet un utilisateur                                                | chut, muet                               | //mute [60s] [Spam]            |
-| //prune               | Supprime les messages d'un utilisateur                                  | /                                        | //prune @JordanHrndz 50          |
+| //prune               | Supprime les messages d'un utilisateur                                  | /                                        | //prune @SUM°Ştit¢h 50          |
 | //purge               | Supprime les messages dans un salon donné                               | clear, suppr                             | //purge 50                     |
 | //unban               | Supprime le bannissement d'un utilisateur                               | deban                                    | //unban 259302097197989888     |
-| //unmute              | Rend la parole à une personne muette                                    | demute                                   | //unmute @JordanHrndz            |
+| //unmute              | Rend la parole à une personne muette                                    | demute                                   | //unmute @SUM°Ştit¢h            |
 
 ### 💵 Commandes - BadDeath RPG
 
@@ -100,11 +100,11 @@ Maintenant votre bot est allumé et tout est ok !
 | --------------------- | ------------------------------------------------------------------------| -----------------------------------------|--------------------------------|
 | //coinflip            | Fait un pari sur pile ou face                                           | coin, flip                               | //coinflip 20 pile             |
 | //daily               | Donne de l'argent quotidiennement                                       | /                                        | //daily                        |
-| //give                | Donne de l'argent à l'utilisateur mentionné                             | /                                        | //give @JordanHrndz 50           |
+| //give                | Donne de l'argent à l'utilisateur mentionné                             | /                                        | //give @SUM°Ştit¢h 50           |
 | //leaderboard         | Affiche le classement Money ou Réputation                               | lb, leader                               | //leaderboard [rep]            |
-| //profil              | Affiche le profil de l'utilisateur                                      | me, money                                | //profil [@JordanHrndz]          |
-| //reputation          | Donne un point de réputation à l'utilisateur                            | point, rep                               | //reputation @JordanHrndz        |
-| //send                | Envoie de l'argent à l'utilisateur                                      | /                                        | //send @JordanHrndz 50           |
+| //profil              | Affiche le profil de l'utilisateur                                      | me, money                                | //profil [@SUM°Ştit¢h]          |
+| //reputation          | Donne un point de réputation à l'utilisateur                            | point, rep                               | //reputation @SUM°Ştit¢h        |
+| //send                | Envoie de l'argent à l'utilisateur                                      | /                                        | //send @SUM°Ştit¢h 50           |
 | //work                | récolté l'argent d'une guerre selon ton grades                          | /                                        | //work                         |
 | //works               | Affiche la liste des grades et permet d'être recruté dans l'un d'eux    | /                                        | //works 1                      |
 
